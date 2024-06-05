@@ -1,0 +1,7 @@
+{
+  "name": "serdar_erciyas_prog3_final",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
